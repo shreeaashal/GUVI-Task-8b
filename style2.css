@@ -1,0 +1,25 @@
+
+.topdiv{
+    text-align: center;
+    border:1px solid black; 
+    width: 200px;
+    margin-top: 20px; 
+    margin-left: 600px;
+
+}
+.outer{
+    border:1px solid black;
+    margin-bottom: 20px;
+}
+
+.d-flex{
+    margin-bottom: 50px;
+}
+
+.card{
+    margin-bottom: 20px;
+}
+
+.card-title{
+    text-align: center;
+}
